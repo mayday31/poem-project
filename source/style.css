@@ -1,1 +1,53 @@
+body {
+  background-color: #8073cf;
+  font-family: "Sofia", cursive;
+}
 
+.container {
+  color: white;
+  margin: 120px auto;
+  max-width: 600px;
+}
+
+h1 {
+  text-align: center;
+  color: #bb9ce7;
+  font-size: 50px;
+}
+
+a {
+  color: #bb9ce7;
+}
+
+.text-form {
+  border-style: double;
+  border-width: 5px;
+  border-radius: 10px;
+  border-color: #bb9ce7;
+  padding: 10px;
+  width: 80%;
+  margin-bottom: 20px;
+}
+
+.submit {
+  border-style: double;
+  border-width: 5px;
+  border-radius: 10px;
+  border-color: #bb9ce7;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: white;
+}
+
+.poem {
+  font-size: 20px;
+  padding: 20px;
+  line-height: 20px;
+  background-color: #bb9ce7;
+  border-radius: 10px;
+}
+
+footer {
+  font-size: 12px;
+  text-align: right;
+}
