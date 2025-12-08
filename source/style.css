@@ -30,6 +30,8 @@ a {
 }
 
 .submit {
+  color: #bb9ce7;
+  font-weight: bolder;
   border-style: double;
   border-width: 5px;
   border-radius: 10px;
